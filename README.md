@@ -15,7 +15,7 @@ Spring in Action Tutoriol
 ```
 
 **示例code如下:**
-```python
+```java	
 	import java.io.FileInputStream;
 	import java.io.FileNotFoundException;
 	import java.io.FileOutputStream;
