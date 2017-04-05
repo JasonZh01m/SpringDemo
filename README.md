@@ -13,9 +13,9 @@ Spring in Action Tutoriol
         return multipartResolver;
     }
 ```
-```java
-**示例code如下:**
 
+**示例code如下:**
+```c#
 	import java.io.FileInputStream;
 	import java.io.FileNotFoundException;
 	import java.io.FileOutputStream;
